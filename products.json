@@ -1,0 +1,680 @@
+[
+  {
+    "id": "velika-kikinda-m-333",
+    "sku": "1104000",
+    "name": "Velika Kikinda M 333",
+    "category": "Osnovni crepovi",
+    "image": "assets/velika-kikinda-m-333.webp",
+    "source": "https://toza.rs/proizvod/velika-kikinda-m-333/",
+    "attributes": {
+      "Težina": "2,50 kg",
+      "Dimenzije": "400 × 245 mm"
+    },
+    "officialDocuments": [
+      "https://toza.rs/wp-content/uploads/2024/05/Velika-Kikinda-M-333_vazi-do-feb-2025.pdf"
+    ],
+    "imageSource": "https://toza.rs/wp-content/uploads/2024/05/1104000.png",
+    "price": 87,
+    "unit": "kom",
+    "pack": 240,
+    "pallet": 240,
+    "weight": 2.5,
+    "stock": [
+      24000,
+      4800,
+      1200
+    ],
+    "description": "Glineni crep za krovne sisteme. Odaberite količinu i preuzimanje po magacinu, uz pregled partnerskog rabata.",
+    "active": true
+  },
+  {
+    "id": "mala-kikinda-m-272",
+    "sku": "1106000",
+    "name": "Mala Kikinda M 272",
+    "category": "Osnovni crepovi",
+    "image": "assets/mala-kikinda-m-272.webp",
+    "source": "https://toza.rs/proizvod/mala-kikinda-m-272/",
+    "attributes": {
+      "Težina": "2,30 kg",
+      "Dimenzije": "400 × 225 mm"
+    },
+    "officialDocuments": [
+      "https://toza.rs/wp-content/uploads/2024/05/Atest-M-272_vazi-do-dec-2024.pdf"
+    ],
+    "imageSource": "https://toza.rs/wp-content/uploads/2024/05/1106000.png",
+    "price": 94,
+    "unit": "kom",
+    "pack": 240,
+    "pallet": 240,
+    "weight": 2.3,
+    "stock": [
+      24240,
+      4920,
+      1212
+    ],
+    "description": "Glineni crep za krovne sisteme. Odaberite količinu i preuzimanje po magacinu, uz pregled partnerskog rabata.",
+    "active": true
+  },
+  {
+    "id": "premium-kikinda",
+    "sku": "1104001",
+    "name": "Premium Kikinda",
+    "category": "Osnovni crepovi",
+    "image": "assets/premium-kikinda.webp",
+    "source": "https://toza.rs/proizvod/premium-kikinda/",
+    "attributes": {
+      "Težina": "2,75 kg",
+      "Dimenzije": "421 × 251 mm"
+    },
+    "officialDocuments": [
+      "https://toza.rs/wp-content/uploads/2024/05/Premium-Kikinda_vazi-do-feb-2025.pdf"
+    ],
+    "imageSource": "https://toza.rs/wp-content/uploads/2024/05/1104001.png",
+    "price": 101,
+    "unit": "kom",
+    "pack": 240,
+    "pallet": 240,
+    "weight": 2.75,
+    "stock": [
+      24480,
+      5040,
+      1224
+    ],
+    "description": "Glineni crep za krovne sisteme. Odaberite količinu i preuzimanje po magacinu, uz pregled partnerskog rabata.",
+    "active": true
+  },
+  {
+    "id": "portugalac-m-977",
+    "sku": "1105000",
+    "name": "Portugalac M 977",
+    "category": "Osnovni crepovi",
+    "image": "assets/portugalac-m-977.webp",
+    "source": "https://toza.rs/proizvod/portugalac-m-977/",
+    "attributes": {
+      "Težina": "2,85 kg",
+      "Dimenzije": "410 × 255 mm"
+    },
+    "officialDocuments": [
+      "https://toza.rs/wp-content/uploads/2024/05/Portugalac-M-977_vazi-do-feb-2025.pdf"
+    ],
+    "imageSource": "https://toza.rs/wp-content/uploads/2024/05/1105000.png",
+    "price": 108,
+    "unit": "kom",
+    "pack": 240,
+    "pallet": 240,
+    "weight": 2.85,
+    "stock": [
+      24720,
+      5160,
+      1236
+    ],
+    "description": "Glineni crep za krovne sisteme. Odaberite količinu i preuzimanje po magacinu, uz pregled partnerskog rabata.",
+    "active": true
+  },
+  {
+    "id": "classic-m-002",
+    "sku": "1101000",
+    "name": "Classic M 002",
+    "category": "Osnovni crepovi",
+    "image": "assets/classic-m-002.webp",
+    "source": "https://toza.rs/proizvod/classic-m-002/",
+    "attributes": {
+      "Težina": "2,60 kg",
+      "Dimenzije": "405 × 245 mm"
+    },
+    "officialDocuments": [
+      "https://toza.rs/wp-content/uploads/2024/05/Atest-M-002-vazi-do_apr-2025.pdf"
+    ],
+    "imageSource": "https://toza.rs/wp-content/uploads/2024/05/1101000.png",
+    "price": 115,
+    "unit": "kom",
+    "pack": 240,
+    "pallet": 240,
+    "weight": 2.6,
+    "stock": [
+      24960,
+      5280,
+      1248
+    ],
+    "description": "Glineni crep za krovne sisteme. Odaberite količinu i preuzimanje po magacinu, uz pregled partnerskog rabata.",
+    "active": true
+  },
+  {
+    "id": "klasik-premium",
+    "sku": "1101001",
+    "name": "Klasik Premium",
+    "category": "Osnovni crepovi",
+    "image": "assets/klasik-premium.webp",
+    "source": "https://toza.rs/proizvod/klasik-premium/",
+    "attributes": {
+      "Težina": "2,99 kg",
+      "Dimenzije": "421 × 251 mm"
+    },
+    "officialDocuments": [
+      "https://toza.rs/wp-content/uploads/2024/05/Klasik-Premium_vazi-do-feb-2025.pdf"
+    ],
+    "imageSource": "https://toza.rs/wp-content/uploads/2024/05/1101001.png",
+    "price": 122,
+    "unit": "kom",
+    "pack": 240,
+    "pallet": 240,
+    "weight": 2.99,
+    "stock": [
+      25200,
+      5400,
+      1260
+    ],
+    "description": "Glineni crep za krovne sisteme. Odaberite količinu i preuzimanje po magacinu, uz pregled partnerskog rabata.",
+    "active": true
+  },
+  {
+    "id": "holandez-m-993",
+    "sku": "01103000",
+    "name": "Holandez M 993",
+    "category": "Osnovni crepovi",
+    "image": "assets/holandez-m-993.webp",
+    "source": "https://toza.rs/proizvod/holandez-m-993/",
+    "attributes": {
+      "Težina": "2,60 kg",
+      "Dimenzije": "400 × 245 mm"
+    },
+    "officialDocuments": [],
+    "imageSource": "https://toza.rs/wp-content/uploads/2024/05/01103000.png",
+    "price": 129,
+    "unit": "kom",
+    "pack": 240,
+    "pallet": 240,
+    "weight": 2.6,
+    "stock": [
+      25440,
+      5520,
+      1272
+    ],
+    "description": "Glineni crep za krovne sisteme. Odaberite količinu i preuzimanje po magacinu, uz pregled partnerskog rabata.",
+    "active": true
+  },
+  {
+    "id": "ventilacioni-crep-vt-333",
+    "sku": "14104000",
+    "name": "Ventilacioni crep VT 333",
+    "category": "Ventilacioni crepovi",
+    "image": "assets/ventilacioni-crep-vt-333.webp",
+    "source": "https://toza.rs/proizvod/ventilacioni-crep-vt-333/",
+    "attributes": {
+      "Težina": "2,75 kg",
+      "Dimenzije": "400 × 245 mm"
+    },
+    "officialDocuments": [],
+    "imageSource": "https://toza.rs/wp-content/uploads/2024/05/14104000.png",
+    "price": 136,
+    "unit": "kom",
+    "pack": 12,
+    "pallet": 240,
+    "weight": 2.75,
+    "stock": [
+      25680,
+      5640,
+      1284
+    ],
+    "description": "Glineni crep za krovne sisteme. Odaberite količinu i preuzimanje po magacinu, uz pregled partnerskog rabata.",
+    "active": true
+  },
+  {
+    "id": "ventilacioni-crep-vt-002",
+    "sku": "14101000",
+    "name": "Ventilacioni crep VT 002",
+    "category": "Ventilacioni crepovi",
+    "image": "assets/ventilacioni-crep-vt-002.webp",
+    "source": "https://toza.rs/proizvod/ventilacioni-crep-vt-002/",
+    "attributes": {
+      "Težina": "2,82 kg",
+      "Dimenzije": "405 × 245 mm"
+    },
+    "officialDocuments": [],
+    "imageSource": "https://toza.rs/wp-content/uploads/2024/05/14101000.png",
+    "price": 143,
+    "unit": "kom",
+    "pack": 12,
+    "pallet": 240,
+    "weight": 2.82,
+    "stock": [
+      24,
+      0,
+      0
+    ],
+    "description": "Glineni crep za krovne sisteme. Odaberite količinu i preuzimanje po magacinu, uz pregled partnerskog rabata.",
+    "active": true
+  },
+  {
+    "id": "zavrsni-desni-crep-zd-333",
+    "sku": "3105000",
+    "name": "Završni desni crep ZD 333",
+    "category": "Završni crepovi",
+    "image": "assets/zavrsni-desni-crep-zd-333.webp",
+    "source": "https://toza.rs/proizvod/zavrsni-desni-crep-zd-333/",
+    "attributes": {
+      "Težina": "3,40 kg",
+      "Dimenzije": "400 × 245 mm"
+    },
+    "officialDocuments": [],
+    "imageSource": "https://toza.rs/wp-content/uploads/2024/05/3105000.png",
+    "price": 150,
+    "unit": "kom",
+    "pack": 12,
+    "pallet": 240,
+    "weight": 3.4,
+    "stock": [
+      26160,
+      5880,
+      1308
+    ],
+    "description": "Glineni crep za krovne sisteme. Odaberite količinu i preuzimanje po magacinu, uz pregled partnerskog rabata.",
+    "active": true
+  },
+  {
+    "id": "podzljebnjacki-zavrsni-levi-crep-pzl-993",
+    "sku": "08100000",
+    "name": "Podžljebnjački završni levi crep PZL 993",
+    "category": "Završni crepovi",
+    "image": "assets/podzljebnjacki-zavrsni-levi-crep-pzl-993.webp",
+    "source": "https://toza.rs/proizvod/podzljebnjacki-zavrsni-levi-crep-pzl-993/",
+    "attributes": {
+      "Težina": "3,30 kg",
+      "Dimenzije": "405 × 246 mm"
+    },
+    "officialDocuments": [],
+    "imageSource": "https://toza.rs/wp-content/uploads/2024/05/08100000.png",
+    "price": 157,
+    "unit": "kom",
+    "pack": 12,
+    "pallet": 240,
+    "weight": 3.3,
+    "stock": [
+      26400,
+      6000,
+      1320
+    ],
+    "description": "Glineni crep za krovne sisteme. Odaberite količinu i preuzimanje po magacinu, uz pregled partnerskog rabata.",
+    "active": true
+  },
+  {
+    "id": "zljebnjak-m-184",
+    "sku": "10102000",
+    "name": "Žljebnjak M 184",
+    "category": "Žljebnjaci",
+    "image": "assets/zljebnjak-m-184.webp",
+    "source": "https://toza.rs/proizvod/zljebnjak-m-184/",
+    "attributes": {
+      "Težina": "2,82 kg",
+      "Dimenzije": "390 × 270/220 mm"
+    },
+    "officialDocuments": [],
+    "imageSource": "https://toza.rs/wp-content/uploads/2024/05/10102000.png",
+    "price": 164,
+    "unit": "kom",
+    "pack": 12,
+    "pallet": 240,
+    "weight": 2.82,
+    "stock": [
+      0,
+      0,
+      0
+    ],
+    "description": "Glineni crep za krovne sisteme. Odaberite količinu i preuzimanje po magacinu, uz pregled partnerskog rabata.",
+    "active": true
+  },
+  {
+    "id": "zljebnjak-m-185",
+    "sku": "10105000",
+    "name": "Žljebnjak M 185",
+    "category": "Žljebnjaci",
+    "image": "assets/zljebnjak-m-185.webp",
+    "source": "https://toza.rs/proizvod/zljebnjak-m-185/",
+    "attributes": {
+      "Težina": "2,72 kg",
+      "Dimenzije": "360 × 215 mm"
+    },
+    "officialDocuments": [
+      "https://toza.rs/wp-content/uploads/2024/05/Zljebnjak-M-185_-vazi-do-feb-2025.pdf"
+    ],
+    "imageSource": "https://toza.rs/wp-content/uploads/2024/05/10105000.png",
+    "price": 171,
+    "unit": "kom",
+    "pack": 12,
+    "pallet": 240,
+    "weight": 2.72,
+    "stock": [
+      26880,
+      6240,
+      1344
+    ],
+    "description": "Glineni crep za krovne sisteme. Odaberite količinu i preuzimanje po magacinu, uz pregled partnerskog rabata.",
+    "active": true
+  },
+  {
+    "id": "college-smoke",
+    "sku": "2008",
+    "name": "College smoke",
+    "category": "Gres pločice",
+    "image": "assets/college-smoke.webp",
+    "source": "https://toza.rs/proizvod/college-smoke/",
+    "attributes": {
+      "Dimenzije": "60 × 60 cm",
+      "Kolekcija": "College",
+      "Karakteristike": "Otpornost na hemikalije, Otpornost na kiseline, Otpornost na mrlje, Mat, Otpornost na habanje, Otpornost na niske temperature, Otpornost na protivkliznost, Podna pločica, Veliki format"
+    },
+    "officialDocuments": [
+      "https://toza.rs/wp-content/uploads/2024/05/uputstvo-za-pravilno-postavljanje-keramickih-plocica.pdf",
+      "https://toza.rs/wp-content/uploads/2024/05/Collage-60x60-1.pdf",
+      "https://toza.rs/wp-content/uploads/2024/05/Izvestaj-na-klizavost-61x61_2023.pdf"
+    ],
+    "imageSource": "https://toza.rs/wp-content/uploads/2024/05/2008_1.jpg",
+    "price": 1240,
+    "unit": "m²",
+    "pack": 1.5,
+    "pallet": 72,
+    "weight": 19.4,
+    "stock": [
+      1056,
+      528,
+      219
+    ],
+    "description": "Keramički program za opremanje prostora. Pregled dimenzija, završne obrade i dostupnosti za poslovne kupce.",
+    "active": true
+  },
+  {
+    "id": "rebel",
+    "sku": "3006",
+    "name": "Rebel",
+    "category": "Podne pločice",
+    "image": "assets/rebel.webp",
+    "source": "https://toza.rs/proizvod/rebel/",
+    "attributes": {
+      "Dimenzije": "28,2 × 56,4 cm",
+      "Karakteristike": "Otpornost na hemikalije, Otpornost na kiseline, Otpornost na mrlje, Mat, Otpornost na habanje, Otpornost na niske temperature, Podna pločica"
+    },
+    "officialDocuments": [
+      "https://toza.rs/wp-content/uploads/2024/05/uputstvo-za-pravilno-postavljanje-keramickih-plocica.pdf"
+    ],
+    "imageSource": "https://toza.rs/wp-content/uploads/2024/10/Rebel-30x60-f1.jpg",
+    "price": 1336,
+    "unit": "m²",
+    "pack": 1.5,
+    "pallet": 72,
+    "weight": 19.4,
+    "stock": [
+      1068,
+      534,
+      222
+    ],
+    "description": "Keramički program za opremanje prostora. Pregled dimenzija, završne obrade i dostupnosti za poslovne kupce.",
+    "active": true
+  },
+  {
+    "id": "edna-grey",
+    "sku": "1219",
+    "name": "Edna grey",
+    "category": "Podne pločice",
+    "image": "assets/edna-grey.webp",
+    "source": "https://toza.rs/proizvod/edna-grey/",
+    "attributes": {
+      "Dimenzije": "33 × 33 cm",
+      "Kolekcija": "Edna",
+      "Karakteristike": "Otpornost na hemikalije, Otpornost na kiseline, Otpornost na mrlje, Mat, Otpornost na habanje, Otpornost na niske temperature, Otpornost na protivkliznost, Podna pločica"
+    },
+    "officialDocuments": [
+      "https://toza.rs/wp-content/uploads/2024/05/uputstvo-za-pravilno-postavljanje-keramickih-plocica.pdf",
+      "https://toza.rs/wp-content/uploads/2024/05/Klizavost-EDNA-33x33_nov-2024.pdf",
+      "https://toza.rs/wp-content/uploads/2024/05/Atest-klizavost-EDNA-33x33_mart-2023.pdf"
+    ],
+    "imageSource": "https://toza.rs/wp-content/uploads/2024/05/1219_1.jpg",
+    "price": 1432,
+    "unit": "m²",
+    "pack": 1.5,
+    "pallet": 72,
+    "weight": 19.4,
+    "stock": [
+      1080,
+      540,
+      225
+    ],
+    "description": "Keramički program za opremanje prostora. Pregled dimenzija, završne obrade i dostupnosti za poslovne kupce.",
+    "active": true
+  },
+  {
+    "id": "aurora-wenge",
+    "sku": "1808",
+    "name": "Aurora wenge",
+    "category": "Podne pločice",
+    "image": "assets/aurora-wenge.webp",
+    "source": "https://toza.rs/proizvod/aurora-wenge/",
+    "attributes": {
+      "Dimenzije": "23,3 × 46,6 cm",
+      "Kolekcija": "Aurora",
+      "Karakteristike": "Otpornost na hemikalije, Otpornost na kiseline, Otpornost na mrlje, Mat, Otpornost na niske temperature, Podna pločica"
+    },
+    "officialDocuments": [
+      "https://toza.rs/wp-content/uploads/2024/05/uputstvo-za-pravilno-postavljanje-keramickih-plocica.pdf",
+      "https://toza.rs/wp-content/uploads/2024/05/Atest-AURORA-23x46_nov-2024.pdf"
+    ],
+    "imageSource": "https://toza.rs/wp-content/uploads/2024/05/1808_1.jpg",
+    "price": 1528,
+    "unit": "m²",
+    "pack": 1.5,
+    "pallet": 72,
+    "weight": 19.4,
+    "stock": [
+      1092,
+      546,
+      228
+    ],
+    "description": "Keramički program za opremanje prostora. Pregled dimenzija, završne obrade i dostupnosti za poslovne kupce.",
+    "active": true
+  },
+  {
+    "id": "amalia-light",
+    "sku": "5256",
+    "name": "Amalia light",
+    "category": "Zidne pločice",
+    "image": "assets/amalia-light.webp",
+    "source": "https://toza.rs/proizvod/amalia-light/",
+    "attributes": {
+      "Dimenzije": "25 × 50 cm",
+      "Kolekcija": "Amalia",
+      "Karakteristike": "Otpornost na hemikalije, Otpornost na kiseline, Otpornost na mrlje, Sjaj, Zidna pločica"
+    },
+    "officialDocuments": [
+      "https://toza.rs/wp-content/uploads/2024/05/uputstvo-za-pravilno-postavljanje-keramickih-plocica.pdf"
+    ],
+    "imageSource": "https://toza.rs/wp-content/uploads/2024/05/5256_1.jpg",
+    "price": 1624,
+    "unit": "m²",
+    "pack": 1.5,
+    "pallet": 72,
+    "weight": 19.4,
+    "stock": [
+      1104,
+      552,
+      231
+    ],
+    "description": "Keramički program za opremanje prostora. Pregled dimenzija, završne obrade i dostupnosti za poslovne kupce.",
+    "active": true
+  },
+  {
+    "id": "geometric-decor",
+    "sku": "5312",
+    "name": "Geometric decor",
+    "category": "Dekor pločice",
+    "image": "assets/geometric-decor.webp",
+    "source": "https://toza.rs/proizvod/geometric-decor/",
+    "attributes": {
+      "Dimenzije": "25 × 50 cm",
+      "Kolekcija": "Harmonia",
+      "Dekor": "Geometric decor",
+      "Karakteristike": "Otpornost na hemikalije, Otpornost na kiseline, Otpornost na mrlje, Sjaj, Zidna pločica"
+    },
+    "officialDocuments": [
+      "https://toza.rs/wp-content/uploads/2024/05/uputstvo-za-pravilno-postavljanje-keramickih-plocica.pdf"
+    ],
+    "imageSource": "https://toza.rs/wp-content/uploads/2024/05/5312_1.jpg",
+    "price": 1720,
+    "unit": "m²",
+    "pack": 1.5,
+    "pallet": 72,
+    "weight": 19.4,
+    "stock": [
+      24,
+      0,
+      0
+    ],
+    "description": "Keramički program za opremanje prostora. Pregled dimenzija, završne obrade i dostupnosti za poslovne kupce.",
+    "active": true
+  },
+  {
+    "id": "harmonia-white",
+    "sku": "5227",
+    "name": "Harmonia white",
+    "category": "Zidne pločice",
+    "image": "assets/harmonia-white.webp",
+    "source": "https://toza.rs/proizvod/harmonia-white/",
+    "attributes": {
+      "Dimenzije": "25 × 50 cm",
+      "Kolekcija": "Harmonia",
+      "Karakteristike": "Otpornost na hemikalije, Otpornost na kiseline, Otpornost na mrlje, Sjaj, Zidna pločica"
+    },
+    "officialDocuments": [
+      "https://toza.rs/wp-content/uploads/2024/05/uputstvo-za-pravilno-postavljanje-keramickih-plocica.pdf"
+    ],
+    "imageSource": "https://toza.rs/wp-content/uploads/2024/05/5227_1.jpg",
+    "price": 1816,
+    "unit": "m²",
+    "pack": 1.5,
+    "pallet": 72,
+    "weight": 19.4,
+    "stock": [
+      1128,
+      564,
+      237
+    ],
+    "description": "Keramički program za opremanje prostora. Pregled dimenzija, završne obrade i dostupnosti za poslovne kupce.",
+    "active": true
+  },
+  {
+    "id": "pomona-grey",
+    "sku": "5288",
+    "name": "Pomona grey",
+    "category": "Zidne pločice",
+    "image": "assets/pomona-grey.webp",
+    "source": "https://toza.rs/proizvod/pomona-grey/",
+    "attributes": {
+      "Dimenzije": "25 × 50 cm",
+      "Kolekcija": "Pomona",
+      "Karakteristike": "Otpornost na hemikalije, Otpornost na kiseline, Otpornost na mrlje, Sjaj, Zidna pločica"
+    },
+    "officialDocuments": [
+      "https://toza.rs/wp-content/uploads/2024/05/uputstvo-za-pravilno-postavljanje-keramickih-plocica.pdf",
+      "https://toza.rs/wp-content/uploads/2024/05/Atest-POMONA-25x50_nov-2024.pdf"
+    ],
+    "imageSource": "https://toza.rs/wp-content/uploads/2024/05/5288_1.jpg",
+    "price": 1912,
+    "unit": "m²",
+    "pack": 1.5,
+    "pallet": 72,
+    "weight": 19.4,
+    "stock": [
+      1140,
+      570,
+      240
+    ],
+    "description": "Keramički program za opremanje prostora. Pregled dimenzija, završne obrade i dostupnosti za poslovne kupce.",
+    "active": true
+  },
+  {
+    "id": "hubbard-light",
+    "sku": "5294",
+    "name": "Hubbard light",
+    "category": "Zidne pločice",
+    "image": "assets/hubbard-light.webp",
+    "source": "https://toza.rs/proizvod/hubbard-light/",
+    "attributes": {
+      "Dimenzije": "25 × 50 cm",
+      "Kolekcija": "Hubbard",
+      "Karakteristike": "Otpornost na hemikalije, Otpornost na kiseline, Otpornost na mrlje, Zidna pločica, Mat"
+    },
+    "officialDocuments": [
+      "https://toza.rs/wp-content/uploads/2024/05/uputstvo-za-pravilno-postavljanje-keramickih-plocica.pdf"
+    ],
+    "imageSource": "https://toza.rs/wp-content/uploads/2024/05/5294_1.jpg",
+    "price": 2008,
+    "unit": "m²",
+    "pack": 1.5,
+    "pallet": 72,
+    "weight": 19.4,
+    "stock": [
+      1152,
+      576,
+      243
+    ],
+    "description": "Keramički program za opremanje prostora. Pregled dimenzija, završne obrade i dostupnosti za poslovne kupce.",
+    "active": true
+  },
+  {
+    "id": "augusta-grey",
+    "sku": "5238",
+    "name": "Augusta grey",
+    "category": "Zidne pločice",
+    "image": "assets/augusta-grey.webp",
+    "source": "https://toza.rs/proizvod/augusta-grey/",
+    "attributes": {
+      "Dimenzije": "25 × 50 cm",
+      "Kolekcija": "Augusta",
+      "Karakteristike": "Otpornost na hemikalije, Otpornost na kiseline, Otpornost na mrlje, Zidna pločica, Mat"
+    },
+    "officialDocuments": [
+      "https://toza.rs/wp-content/uploads/2024/05/uputstvo-za-pravilno-postavljanje-keramickih-plocica.pdf"
+    ],
+    "imageSource": "https://toza.rs/wp-content/uploads/2024/05/5238_1.jpg",
+    "price": 2104,
+    "unit": "m²",
+    "pack": 1.5,
+    "pallet": 72,
+    "weight": 19.4,
+    "stock": [
+      1164,
+      582,
+      246
+    ],
+    "description": "Keramički program za opremanje prostora. Pregled dimenzija, završne obrade i dostupnosti za poslovne kupce.",
+    "active": true
+  },
+  {
+    "id": "amalia-botanic-decor",
+    "sku": "5310",
+    "name": "Amalia botanic decor",
+    "category": "Dekor pločice",
+    "image": "assets/amalia-botanic-decor.webp",
+    "source": "https://toza.rs/proizvod/amalia-botanic-decor/",
+    "attributes": {
+      "Dimenzije": "25 × 50 cm",
+      "Kolekcija": "Amalia",
+      "Dekor": "Amalia botanic decor",
+      "Karakteristike": "Otpornost na hemikalije, Otpornost na kiseline, Otpornost na mrlje, Sjaj, Zidna pločica"
+    },
+    "officialDocuments": [
+      "https://toza.rs/wp-content/uploads/2024/05/uputstvo-za-pravilno-postavljanje-keramickih-plocica.pdf"
+    ],
+    "imageSource": "https://toza.rs/wp-content/uploads/2024/05/5310_1.jpg",
+    "price": 2200,
+    "unit": "m²",
+    "pack": 1.5,
+    "pallet": 72,
+    "weight": 19.4,
+    "stock": [
+      1176,
+      588,
+      249
+    ],
+    "description": "Keramički program za opremanje prostora. Pregled dimenzija, završne obrade i dostupnosti za poslovne kupce.",
+    "active": true
+  }
+]
